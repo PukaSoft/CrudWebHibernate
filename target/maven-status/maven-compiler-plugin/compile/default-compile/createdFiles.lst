@@ -1,0 +1,16 @@
+com\is89\domain\Alumno.class
+com\is89\web\ServletAgregar.class
+com\is89\web\ServletControlador.class
+com\is89\dao\ContactoDAO.class
+com\is89\domain\Asignacion.class
+com\is89\domain\Domicilio.class
+com\is89\dao\AsignacionDAO.class
+com\is89\test\TestHibernate.class
+com\is89\dao\CursoDAO.class
+com\is89\dao\DomicilioDAO.class
+com\is89\dao\GenericDAO.class
+com\is89\dao\AlumnoDAO.class
+com\is89\domain\Contacto.class
+com\is89\servicio\ServicioAlumno.class
+com\is89\web\ServletRedireccionar.class
+com\is89\domain\Curso.class
